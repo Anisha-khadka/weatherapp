@@ -73,6 +73,7 @@ h1{
   background-color: rgba(92, 91, 91, 0.5);
   padding: 10px;
   border-radius: 25px;
+
 }
 
 .app .top{
@@ -91,3 +92,7 @@ text-align: center;
 .bold{
   font-weight: 700;
 }
+/* button{
+  display:none;
+
+} */
